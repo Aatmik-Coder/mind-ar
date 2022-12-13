@@ -1,0 +1,548 @@
+{
+  "accessors": [
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 79,
+      "max": [
+        0.05940118432044983,
+        1.1763920783996582,
+        0.018162114545702934
+      ],
+      "min": [
+        0.04817197099328041,
+        1.1651629209518433,
+        0.006932912860065699
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 948,
+      "componentType": 5126,
+      "count": 79,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 79,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 336,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1896,
+      "componentType": 5126,
+      "count": 79,
+      "max": [
+        -0.05000288784503937,
+        1.176497220993042,
+        0.02162426896393299
+      ],
+      "min": [
+        -0.061663225293159485,
+        1.1648368835449219,
+        0.00996393896639347
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2844,
+      "componentType": 5126,
+      "count": 79,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 632,
+      "componentType": 5126,
+      "count": 79,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1344,
+      "componentType": 5125,
+      "count": 336,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        1.0,
+        5.1501224467062065e-18,
+        5.1501224467062065e-18,
+        0.0,
+        0.0,
+        1.0,
+        5.310312189976685e-10,
+        0.0,
+        4.406527712757996e-31,
+        0.0,
+        1.0,
+        0.0,
+        0.05583307147026062,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        -5.1501224467062065e-18,
+        1.0,
+        0.0,
+        0.0,
+        -5.1501224467062065e-18,
+        -5.310312189976685e-10,
+        1.0,
+        0.0,
+        -0.053786564618349075,
+        -1.170777678489685,
+        -0.015794100239872932,
+        1.0
+      ],
+      "type": "MAT4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 79,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 79,
+      "max": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 632,
+      "componentType": 5123,
+      "count": 79,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 1264,
+      "componentType": 5126,
+      "count": 79,
+      "max": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC4"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Adulterated (https://sketchfab.com/Adulterated)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/single-pearl-earrings-0e459e728e0746aa853215a3eb36394e",
+      "title": "Single Pearl Earrings"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1264,
+      "byteStride": 8,
+      "name": "shortBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2688,
+      "byteOffset": 1264,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1264,
+      "byteOffset": 3952,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3792,
+      "byteOffset": 5216,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2528,
+      "byteOffset": 9008,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 256,
+      "byteOffset": 11536,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 11792,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Single_Pearl.001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8040408205773457
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Single_Pearl",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8040408205773457
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Single Pearl (L)_Single Pearl.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "JOINTS_0": 9,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "WEIGHTS_0": 10
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Single Pearl (R)_Single Pearl_0",
+      "primitives": [
+        {
+          "attributes": {
+            "JOINTS_0": 11,
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6,
+            "WEIGHTS_0": 12
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "dea2f11259514374ad1460a9d753dfbb.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.6292067939183141e-07,
+        -0.9999999999999868,
+        0.0,
+        0.0,
+        0.9999999999999868,
+        -1.6292067939183141e-07,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Armature.002"
+    },
+    {
+      "children": [
+        5,
+        10,
+        12,
+        9,
+        11
+      ],
+      "name": "Object_4"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "_rootJoint"
+    },
+    {
+      "children": [
+        7,
+        8
+      ],
+      "name": "Head_00",
+      "rotation": [
+        0.7071067094802856,
+        8.816468990130106e-18,
+        5.1747840094888624e-18,
+        0.7071068286895752
+      ],
+      "translation": [
+        -2.6752924187118277e-16,
+        -0.012308035977184772,
+        1.117631196975708
+      ]
+    },
+    {
+      "name": "Single Pearl (L)_01",
+      "rotation": [
+        7.588822370507842e-08,
+        -7.318248858991398e-18,
+        -5.70764727969785e-25,
+        1.0
+      ],
+      "translation": [
+        0.053786564618349075,
+        0.05314648151397705,
+        0.0002394858020124957
+      ]
+    },
+    {
+      "name": "Single Pearl (R)_02",
+      "rotation": [
+        7.566994497665291e-08,
+        -9.8933100823445e-18,
+        -7.26409844190672e-25,
+        1.0
+      ],
+      "translation": [
+        -0.05583307147026062,
+        0.053035613149404526,
+        0.0034860726445913315
+      ]
+    },
+    {
+      "matrix": [
+        1.0,
+        -1.2279290521534487e-25,
+        -7.821533996702164e-25,
+        0.0,
+        -7.821533996702306e-25,
+        6.123233995736877e-17,
+        -1.0000000000000182,
+        0.0,
+        1.2279290521534714e-25,
+        1.0000000000000182,
+        6.123233995736877e-17,
+        0.0,
+        -1.6185147495537077e-23,
+        -1.467252541687003e-09,
+        2.3497083619095083e-10,
+        1.0
+      ],
+      "name": "Object_9"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_10",
+      "skin": 0
+    },
+    {
+      "matrix": [
+        1.0,
+        -1.2279290521534487e-25,
+        -7.821533996702164e-25,
+        0.0,
+        -7.821533996702306e-25,
+        6.123233995736877e-17,
+        -1.0000000000000182,
+        0.0,
+        1.2279290521534714e-25,
+        1.0000000000000182,
+        6.123233995736877e-17,
+        0.0,
+        -1.6185147495537077e-23,
+        -1.467252541687003e-09,
+        2.3497083619095083e-10,
+        1.0
+      ],
+      "name": "Object_11"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_12",
+      "skin": 0
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 8,
+      "joints": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "skeleton": 5
+    }
+  ]
+}

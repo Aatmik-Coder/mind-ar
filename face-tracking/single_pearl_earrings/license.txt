@@ -1,0 +1,11 @@
+Model Information:
+* title:	Single Pearl Earrings
+* source:	https://sketchfab.com/3d-models/single-pearl-earrings-0e459e728e0746aa853215a3eb36394e
+* author:	Adulterated (https://sketchfab.com/Adulterated)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Single Pearl Earrings" (https://sketchfab.com/3d-models/single-pearl-earrings-0e459e728e0746aa853215a3eb36394e) by Adulterated (https://sketchfab.com/Adulterated) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
